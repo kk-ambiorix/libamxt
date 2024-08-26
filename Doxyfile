@@ -43,17 +43,17 @@ INCLUDE_PATH           =
 # Configuration options related to the dot tool
 #---------------------------------------------------------
 
-CLASS_DIAGRAMS         = YES
-HAVE_DOT               = YES
-DOT_NUM_THREADS        = 4
-CLASS_GRAPH            = YES
-COLLABORATION_GRAPH    = YES
-GROUP_GRAPHS           = YES
-HIDE_UNDOC_RELATIONS   = NO
-INCLUDE_GRAPH          = NO
-INCLUDED_BY_GRAPH      = NO
-CALL_GRAPH             = YES
-CALLER_GRAPH           = YES
+# CLASS_DIAGRAMS         = YES
+# HAVE_DOT               = YES
+# DOT_NUM_THREADS        = 4
+# CLASS_GRAPH            = YES
+# COLLABORATION_GRAPH    = YES
+# GROUP_GRAPHS           = YES
+# HIDE_UNDOC_RELATIONS   = NO
+INCLUDE_GRAPH            = NO
+INCLUDED_BY_GRAPH        = NO
+# CALL_GRAPH             = YES
+# CALLER_GRAPH           = YES
 
 #---------------------------------------------------------
 # Configuration options related to the HTML output
